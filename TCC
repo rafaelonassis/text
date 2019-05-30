@@ -1,0 +1,5 @@
+Devido ao sistema desenvolvido ser um sistema WEB, o mesmo terá que subir para um servidor web, onde será hospedado.
+
+Assim que hospedado, caso fossemos realizar a utilização do mesmo, a estratégia seria que cadastrássemos antes de mais nada os médicos que quisessem que seu serviço fosse divulgado. Através da concorrência ou de serviços disponibilizados pelo estado, teremos acesso ao contato dos médicos, desta forma, ofereceremos os serviços aos mesmos, os cadastrando para que a nossa base de dados seja populada.
+
+Após isto, uma das maneiras de fazer com que comece a ter usuários atrás destes serviços, seria através de propagandas do mesmo para perfil de pessoas que costumam pesquisar o que o nosso serviço oferece.
